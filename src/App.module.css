@@ -1,0 +1,14 @@
+.App {
+  background-color: rosybrown;
+  text-align: center;
+  color: white;
+  padding: 20px;
+  height: 700px;
+}
+
+.App input {
+  margin: 0 auto;
+  display: block;
+}
+
+
